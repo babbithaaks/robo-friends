@@ -1,5 +1,6 @@
 {
   "name": "robo-friends",
+  "homepage": "http://babbithaaks.github.io/robo-friends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,6 +35,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "http://babbithaaks.github.io/robo-friends"
+    
   }
 }
